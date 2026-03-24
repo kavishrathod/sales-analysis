@@ -35,7 +35,7 @@ sales-analysis/
 │           └── sales_pipeline_dag.py     # ⭐ Airflow DAG (DQ → Load → Report)
 │
 ├── powerbi/
-│   └── sales_dashboard_guide.md          # Step-by-step Power BI build guide
+│   └── sales_dashboard
 │
 ├── docs/
 │   └── insights_summary.md               # Key business insights
