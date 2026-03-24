@@ -32,7 +32,7 @@ sales-analysis/
 │   ├── reports/                          # Auto-generated CSVs from pipeline
 │   └── airflow/
 │       └── dags/
-│           └── sales_pipeline_dag.py     # ⭐ Airflow DAG (DQ → Load → Report)
+│           └── sales_pipeline_dag.py     # Airflow DAG (DQ → Load → Report)
 │
 ├── powerbi/
 │   └── sales_dashboard
