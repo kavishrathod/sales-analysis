@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Data files (download from Kaggle locally)
+data/*.csv
+data/*.xlsx
+
+# Power BI
+*.pbix
+
+# Generated reports (auto-created by pipeline)
+data_engineering/quality/dq_report.csv
+data_engineering/quality/dq_log.json
+data_engineering/reports/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Airflow
+airflow.cfg
+airflow.db
+logs/
