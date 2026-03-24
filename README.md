@@ -163,8 +163,7 @@ data_quality_check → load_to_mysql → run_sql_reports → notify_completion
 ## 📊 Power BI Dashboard
 
 5+ visuals: KPI Cards · Monthly Trend · Top Sub-Categories · Regional Map · Segment Donut · Category Matrix  
-See [`powerbi/sales_dashboard_guide.md`](powerbi/sales_dashboard_guide.md) for full build steps including DAX measures.
-
+**(Updating Shortly)**
 ---
 
 ## 🐍 Python EDA (Jupyter Notebook)
