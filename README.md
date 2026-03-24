@@ -25,6 +25,7 @@ sales-analysis/
 │   └── eda_superstore.ipynb              # Jupyter EDA notebook (11 sections)
 │
 ├── data_engineering/
+│   ├── load_staging.py
 │   ├── quality/
 │   │   ├── data_quality_checks.py        # 14 automated DQ checks
 │   │   ├── dq_report.csv                 # Generated after running checks
