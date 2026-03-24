@@ -19,14 +19,14 @@ sales-analysis/
 │   ├── 03_top_products.sql
 │   ├── 04_customer_segments.sql
 │   ├── 05_regional_analysis.sql
-│   └── star_schema_ddl.sql               # ⭐ Star Schema warehouse design
+│   └── star_schema_ddl.sql               # Star Schema warehouse design
 │
 ├── notebooks/
 │   └── eda_superstore.ipynb              # Jupyter EDA notebook (11 sections)
 │
 ├── data_engineering/
 │   ├── quality/
-│   │   ├── data_quality_checks.py        # ⭐ 14 automated DQ checks
+│   │   ├── data_quality_checks.py        # 14 automated DQ checks
 │   │   ├── dq_report.csv                 # Generated after running checks
 │   │   └── dq_log.json                   # Run summary log
 │   ├── reports/                          # Auto-generated CSVs from pipeline
