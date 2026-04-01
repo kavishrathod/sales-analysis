@@ -1,6 +1,6 @@
-# 📊 Sales Performance Analysis — SQL + Python EDA + Power BI + Data Engineering
+# 📊 Superstore Data Engineering Pipeline — SQL, Star Schema, Airflow, Power BI, Python EDA
 
-> End-to-end sales analytics project on the Superstore Sales dataset.  
+> End-to-end Data Engineering Pipeline  project on the Superstore Sales dataset.  
 > Covers SQL querying, Python EDA, Power BI dashboard, star schema design, automated data quality checks, and an Apache Airflow pipeline DAG.
 
 ---
